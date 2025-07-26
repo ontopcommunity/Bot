@@ -18,7 +18,7 @@ import threading, time, requests
 def keep_alive():
     while True:
         try:
-            requests.get("https://ruby-4g1f.onrender.com")
+            requests.get("https://bot-oyu3.onrender.com")
         except:
             pass
         time.sleep(300)
