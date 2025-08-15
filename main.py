@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw
 import requests
 import io
 import datetime
-Bot = "7550142487:AAHIm7uxWug1vlJId18ospVz1fZpoYLaRgA"
+Bot = "7550142487:AAHod6WvlOjKLIa8efQyTE2dV1ZzGaxhKXo"
 
 async def info(update: Update, context: ContextTypes.DEFAULT_TYPE):
     target_user = None
